@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Serena, a passionate Full Stack Software Engineering student at Actualize Coding Bootcamp. With a background in sales and marketing, I bring a unique perspective to the world of coding, blending creativity with technical skills to build innovative solutions.
+<p align="left">I'm Serena, a passionate Full Stack Software Engineering student at Actualize Coding Bootcamp. With a background in sales and marketing, as well as experience in web design, I bring a unique perspective to the world of coding, blending creativity with technical skills to build innovative solutions.
 
 </p>
 
