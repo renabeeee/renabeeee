@@ -28,7 +28,7 @@
 <h2 align="left">Interests:
 </h2>
 
-<p align="left">🏀 When I'm not coding, you can find me playing basketball or staying active outdoors.
+<p align="left">🏀 When I'm not coding, you can find me playing basketball with my community (@shehoopsla) or staying active outdoors.
 
 <p align="left">🍲 I have a passion for cooking and love trying out new recipes in the kitchen.
 
