@@ -10,31 +10,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🎓 I'm currently immersed in the world of coding at Actualize Coding Bootcamp, focusing on Full Stack Software Engineering.
-</p>
-
-<p align="left">💼 Prior to this, I've gained experience in sales and marketing, where I learned the importance of effective communication and strategic thinking.
-</p>
-
-<p align="left">🚀 I'm a person who's driven by curiosity and enjoys exploring new ideas. Currently, I'm working on a web app project that aims to simplify meal planning by providing creative recipes based on available ingredients.
-
-<p align="left">🌴 Los Angeles is my home base, and I draw inspiration from the diversity and energy of the city.
-</p>
-
-<h2 align="left">Interests:
-</h2>
-
-<p align="left">🏀 When I'm not coding, you can find me playing basketball with my community (@shehoopsla) or staying active outdoors.
-
-<p align="left">🍲 I have a passion for cooking and love trying out new recipes in the kitchen.
-
-
-<h4>Let's Connect: </h4> <p> If you share similar interests or want to chat about coding or anything else, feel free to reach out! I'm always open to meeting new people and exploring potential collaborations.
-
 </p>
 
 
